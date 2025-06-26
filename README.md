@@ -1,2 +1,66 @@
-# AI_Paul
-AI_Paul is a modular Minecraft bot powered by Mineflayer, VS code and LLaMA3 via Ollama.
+# AI_Paul – Your Smartest Minecraft BFF (Built with Mineflayer + LLaMA AI)
+AI_Paul is a customizable Minecraft bot powered by mineflayer and a local LLaMA AI. He chats like a real friend, remembers conversations, generates functions, talks out loud, and even helps you code in-game.
+
+# Features:
+
+Real-time AI chat powered by LLaMA (via Ollama),
+In-game memory and conversation history,
+Dynamic function generation (createfunc, runfunc),
+Text-to-speech responses with say(),
+Fully modular architecture (clean, separated files),
+Built by a real 12-year-old roboticist (yeah, fr).
+
+# Stack:
+Node.js,
+Mineflayer,
+Ollama + LLaMA3,
+PowerShell integration,
+Minecraft 1.20.6 (Java).
+
+
+# Commands:
+
+# Mining & Digging
+
+"mine (block>"	Finds and mines the nearest block of that type using the best tool.
+"dig (width> (depth> (length>"	Digs a hole with the given dimensions under the bot.
+
+# Crafting & Smelting
+
+"craft (itemName> [count]"	Crafts the specified item. Defaults to one if count not provided.
+"smelt (itemName> [count]"	Smelts the specified item using the nearest furnace.
+
+# Combat
+
+"fight (mobName>"	Attacks the nearest mob with that name. Prioritizes healing if health is low. Special responses for boss mobs.
+
+# Following
+
+"follow"	Follows the player automatically.
+"stop"	Stops following the player.
+
+# Building
+
+"build platform (size>"	Builds a square dirt platform.
+"build wall (size>"	Builds a vertical dirt wall.
+"build tower (size>"	Builds a tall dirt tower.
+"build house (size>"	Builds a hollow cube structure. Also triggered by "base" or "dirt_house".
+
+# Inventory
+
+"inventory"	Lists all items in the bot’s inventory.
+"inventory sorted"	Lists items, sorted alphabetically.
+"equip armor"	Equips the best armor available.
+"get itemframe"	Interacts with the nearest item frame to grab the item.
+pickup	Picks up nearby dropped items.
+
+# Sleeping
+
+"sleep"	Sleeps in the nearest bed, if available.
+
+# Notes
+Automatically uses the best tools and armor based on material (netherite > diamond > iron > gold > chainmail > leather).
+
+Uses mineflayer-pathfinder for navigation.
+
+Provides friendly in-game chat responses for every action.
