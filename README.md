@@ -8,9 +8,9 @@ in-game memory and conversation history,
 dynamic function generation (createfunc, runfunc),
 text-to-speech responses with say(),
 fully modular architecture (clean, separated files),
-built by a 12-year-old roboticist (yeah, fr).
+built by a 12-year-old roboticist (me)
 
-# Stack:
+# Stack (aka the stuff you have to download):
 Node.js,
 Mineflayer,
 Ollama, LLaMA3, and CodeLLaMA,
