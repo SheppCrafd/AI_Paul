@@ -14,7 +14,7 @@ built by a 12-year-old roboticist (yeah, fr).
 Node.js,
 Mineflayer,
 Ollama, LLaMA3, and CodeLLaMA,
-PowerShell integration,
+PowerShell,
 Minecraft 1.20.6 (Java).
 
 
