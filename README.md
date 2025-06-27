@@ -1,5 +1,5 @@
 # AI_Paul – Your Smartest Minecraft BFF (Built with Mineflayer + LLaMA AI)
-AI_Paul is a customizable Minecraft bot powered by mineflayer and a local LLaMA AI. He chats like a real friend, remembers conversations, generates functions, talks out loud, and even helps you code in-game.
+AI_Paul is a customizable Minecraft bot inspired by Kolanii and Emergent Garden. Powered by mineflayer and two local LLaMA AIs, he chats like a real friend, remembers conversations, talks out loud, and even re-writes his code when you ask him do do something he doesn't know.
 
 # Features:
 
@@ -13,7 +13,7 @@ built by a 12-year-old roboticist (yeah, fr).
 # Stack:
 Node.js,
 Mineflayer,
-Ollama + LLaMA3,
+Ollama, LLaMA3, and CodeLLaMA,
 PowerShell integration,
 Minecraft 1.20.6 (Java).
 
