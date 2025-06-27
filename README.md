@@ -64,3 +64,5 @@ Automatically uses the best tools and armor based on material (netherite -> diam
 Uses Mineflayer-Pathfinder for navigation.
 
 Provides friendly in-game chat responses for everything that isn't a command.
+
+Use "write a new function that..." to make a new function with CodeLLaMA
