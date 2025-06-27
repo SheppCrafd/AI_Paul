@@ -23,7 +23,7 @@ Minecraft 1.20.6 (Java).
 # Mining & Digging
 
 "mine (block)"	Finds and mines the nearest block of that type using the best tool.
-"dig (width) (depth) (length)"	Digs a hole with the given dimensions under the bot.
+"dig (width) [depth] {length}"	Digs a hole with the given dimensions under the bot.
 
 # Crafting & Smelting
 
