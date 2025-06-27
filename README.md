@@ -13,7 +13,7 @@ built by a 12-year-old roboticist (me)
 # Stack (aka the stuff you have to download):
 Node.js,
 Mineflayer,
-Ollama, LLaMA3, and CodeLLaMA,
+Ollama,
 PowerShell,
 Minecraft 1.20.6 (Java).
 
